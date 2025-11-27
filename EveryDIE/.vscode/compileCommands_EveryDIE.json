@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\OSS-EveryDIE\\EveryDIE\\Source\\EveryDIE\\EveryDIE.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\OSS-EveryDIE\\EveryDIE\\.vscode\\compileCommands_EveryDIE\\EveryDIE.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\OSS-EveryDIE\\EveryDIE\\Source\\EveryDIE\\EveryDIE.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\OSS-EveryDIE\\EveryDIE\\.vscode\\compileCommands_EveryDIE\\EveryDIE.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\OSS-EveryDIE\\EveryDIE\\Source\\EveryDIE\\EveryDIE.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\OSS-EveryDIE\\EveryDIE\\.vscode\\compileCommands_EveryDIE\\EveryDIE.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\OSS-EveryDIE\\EveryDIE\\Source\\EveryDIE\\SurvivorCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\OSS-EveryDIE\\EveryDIE\\.vscode\\compileCommands_EveryDIE\\EveryDIE.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\OSS-EveryDIE\\EveryDIE\\Source\\EveryDIE\\SurvivorCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\OSS-EveryDIE\\EveryDIE\\.vscode\\compileCommands_EveryDIE\\EveryDIE.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]

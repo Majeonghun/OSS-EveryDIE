@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\OSS-EveryDIE\\EveryDIE\\Source\\EveryDIE\\EveryDIE.Build.cs",
+		"C:\\OSS-EveryDIE\\EveryDIE\\Source\\EveryDIE.Target.cs",
+		"C:\\OSS-EveryDIE\\EveryDIE\\Source\\EveryDIEEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
