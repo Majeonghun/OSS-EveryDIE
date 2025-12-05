@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define EVERYDIE_SurvivorCharacter_generated_h
 
-#define FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASurvivorCharacter(); \
 	friend struct Z_Construct_UClass_ASurvivorCharacter_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ASurvivorCharacter)
 
 
-#define FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ASurvivorCharacter(ASurvivorCharacter&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~ASurvivorCharacter();
 
 
-#define FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_9_PROLOG
-#define FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_12_GENERATED_BODY \
+#define FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_14_PROLOG
+#define FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_12_INCLASS_NO_PURE_DECLS \
-	FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_12_ENHANCED_CONSTRUCTORS \
+	FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_17_INCLASS_NO_PURE_DECLS \
+	FID_OSS_EveryDIE_EveryDIE_Source_EveryDIE_SurvivorCharacter_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
